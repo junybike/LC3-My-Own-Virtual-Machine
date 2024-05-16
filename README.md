@@ -1,6 +1,5 @@
 # LC3-My-Own-Virtual-Machine
-An LC-3 virtual machine following a tutorial written by Justin Meiners and Ryan Pendleton. 
-https://www.jmeiners.com/lc3-vm/
+An LC-3 virtual machine following a tutorial written by Justin Meiners and Ryan Pendleton. [Link](https://www.jmeiners.com/lc3-vm/)
 
 ## In this project...
 - Read a tutorial on building my own virtual machine using C in Linux
